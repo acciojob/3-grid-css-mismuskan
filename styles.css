@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 .grid-container{
 	display:grid;
-	grid-template-columns:100px 100px 100px;
+	grid-template-columns: 321.328px 321.336px 321.336px;
 	
 }
 .grid-item{
-	background-color:whitesmoke;
+	background-color:#f2f2f2;
 	height:50px; 
 	margin:5px;
 	text-align:center;
